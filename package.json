@@ -1,5 +1,5 @@
 {
-  "name": "@kitchenmate/grunt",
+  "name": "grunt",
   "description": "The JavaScript Task Runner",
   "version": "1.0.4",
   "author": "Grunt Development Team (https://gruntjs.com/development-team)",
